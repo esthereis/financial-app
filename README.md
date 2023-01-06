@@ -1,3 +1,11 @@
+#Important Note(Copyright): 
+This application was created with instructions from Will Dev Youtuber, all interface and programming logic was created by him. 
+I replicated this project with the intention of implement other features to practice react and JavaScript.
+This is the youtube video where Will Dev teaches to program this app:
+https://www.youtube.com/watch?v=pj4vA67olbU&t=1385s
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
