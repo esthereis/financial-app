@@ -14,7 +14,7 @@ const Form = ({ handleAdd, transactionList, setTransactionList }) => {
       alert('Informe a descrição e o valor!');
       return;
     } else if (amount < 1) {
-      alert('O valor tem que ser positivo');
+      alert('O valor tem que ser positivo!');
       return;
     }
 
